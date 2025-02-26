@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : Shanghai"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Feiyu Jia(贾飞宇）"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Feiyu Jia"
 description              : &description "personal description"
 url                      : https://Trap-1.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,15 +25,15 @@ author:
   avatar           : "feiyujia.png"
   name             : "Feiyu Jia"
   pronouns         : "he/him"  
-  bio              : "Trap1"
+  bio              : "Fouth year undergraduate student,NWPU "
   location         : "Shanghai, China"
-  employer         : "Shanghai AI Lab"
+  employer         : "Shanghai AI Lab, NWPU"
   uri              : # URL
   email            : "feiyujia635@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=i-5AG4kAAAAJ&view_op=list_works&gmla=AOv-ny8xrMo61WgEzL7HGjWax8SyNc0YQRsAwbJFEAApSZFaHcBaKdF1KPMEafQtUfn6Iya0rSegMFFGUSV2m83C"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
