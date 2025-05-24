@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Feiyu Jiam"
+  name             : "Feiyu Jia"
   avatar           : "images/feiyujia.png"
   bio              : "NWPU senior student, interested in teleoperation and humanoid robots"
   location         : "Shanghai, China"
