@@ -53,4 +53,4 @@ HOMIE is a semi-autonomous teleoperation system that combines a reinforcement le
 - *2021.06 - now*, Northwestern Polytechnical University
 
 # 💻 Experiences
-- *2023.08 - now*, [OpenRobotLab](https://github.com/OpenRobotLab), Shanghai AI Laboratory.
+- *2024.08 - now*, [OpenRobotLab](https://github.com/OpenRobotLab), Shanghai AI Laboratory.
