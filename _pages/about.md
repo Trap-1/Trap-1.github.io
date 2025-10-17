@@ -34,7 +34,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 [HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://roboticsconference.org/program/papers/70/)
 
-Qingwei Ben\*, **Feiyu Jia\***, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
+Qingwei Ben\*, <u>**Feiyu Jia\***</u>, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
 
 [**[Project website]**](https://homietele.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2502.13013)
@@ -48,9 +48,9 @@ HOMIE is a semi-autonomous teleoperation system that combines a reinforcement le
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://taohuang13.github.io/adamimic.github.io/
+[AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://taohuang13.github.io/adamimic.github.io/)
 
-Tao Huang, Huayi Wang, Junli Ren1, Kangning Yin, Zirui Wang, Xiao Chen, **Feiyu Jia**, Wentao Zhang, Junfeng Long, Jingbo Wang†, Jiangmiao Pang†
+Tao Huang, Huayi Wang, Junli Ren1, Kangning Yin, Zirui Wang, Xiao Chen, <u>**Feiyu Jia**</u>, Wentao Zhang, Junfeng Long, Jingbo Wang†, Jiangmiao Pang†
 
 [**[Project website]**](https://taohuang13.github.io/adamimic.github.io/) 
 [**[Paper]**](https://taohuang13.github.io/adamimic.github.io/assets/paper.pdf)
@@ -67,7 +67,7 @@ We introduce AdaMimic, a novel motion tracking algorithm that enables adaptable 
 
 [PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/)
 
-Huayi Wang\*, Wentao Zhang\*, Runyi Yu\*,  Tao Huang,  Junli Ren, **Feiyu Jia**,  Xiaojie Niu,  Xiao Chen, Jiahe Chen, Qifeng Chen†,  Jingbo Wang†, Jiangmiao Pang†
+Huayi Wang\*, Wentao Zhang\*, Runyi Yu\*,  Tao Huang,  Junli Ren, <u>**Feiyu Jia**</u>,  Xiaojie Niu,  Xiao Chen, Jiahe Chen, Qifeng Chen†,  Jingbo Wang†, Jiangmiao Pang†
 
 [**[Project website]**](https://why618188.github.io/physhsi/) 
 [**[Paper]**](https://arxiv.org/abs/2510.11072)
