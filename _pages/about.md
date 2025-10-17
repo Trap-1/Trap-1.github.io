@@ -34,7 +34,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 **[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://roboticsconference.org/program/papers/70/)**
 
-Qingwei Ben\*, **<u>Feiyu Jia\*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
+Qingwei Ben\*, **<u>Feiyu Jia*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
 
 [**[Project website]**](https://homietele.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2502.13013)
