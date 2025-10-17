@@ -34,7 +34,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 **[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://roboticsconference.org/program/papers/70/)**
 
-Qingwei Ben\*, <u>**Feiyu Jia\***</u>, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
+Qingwei Ben\*, **<u>Feiyu Jia\*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
 
 [**[Project website]**](https://homietele.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2502.13013)
@@ -50,7 +50,7 @@ HOMIE is a semi-autonomous teleoperation system that combines a reinforcement le
 
 **[AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://taohuang13.github.io/adamimic.github.io/)**
 
-Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, <u>**Feiyu Jia**</u>, Wentao Zhang, Junfeng Long, Jingbo Wang†, Jiangmiao Pang†
+Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiyu Jia</u>**, Wentao Zhang, Junfeng Long, Jingbo Wang†, Jiangmiao Pang†
 
 [**[Project website]**](https://taohuang13.github.io/adamimic.github.io/) 
 [**[Paper]**](https://taohuang13.github.io/adamimic.github.io/assets/paper.pdf)
