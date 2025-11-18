@@ -84,7 +84,7 @@ We present a physical-world humanoid-scene interaction system, PhysHSI, that ena
 - *2023.09* **RoboCup China, Dance Robot Champion**
 
 # 📖 Educations
-- *2021.06 - NOW*, University of Science and Technology of China
+- *2025.09 - NOW*, University of Science and Technology of China
 - *2021.06 - 2025.06*, Northwestern Polytechnical University
 
 # 💻 Experiences
