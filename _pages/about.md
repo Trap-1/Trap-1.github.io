@@ -29,7 +29,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 
 # 📝 Publications 
-<div class='paper-box paper-box--accent'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/TAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--accent'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/TAG_NEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://roboticsconference.org/program/papers/70/)**
