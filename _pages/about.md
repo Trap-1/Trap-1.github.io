@@ -77,7 +77,7 @@ We introduce Gallant, the first system to run a single policy that handles full-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/Gallant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Gallant: Voxel grid-based humanoid locomotion and local-navigation across 3d constrained terrains](https://gallantloco.github.io/)**
@@ -93,7 +93,7 @@ We introduce Gallant, the first system to run a single policy that handles full-
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/One4all.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation](https://mujc2021.github.io/opfa/)**
