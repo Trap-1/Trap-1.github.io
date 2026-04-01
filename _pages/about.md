@@ -62,21 +62,6 @@ HOMIE is a semi-autonomous teleoperation system that combines a reinforcement le
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Gallant: Voxel grid-based humanoid locomotion and local-navigation across 3d constrained terrains](https://gallantloco.github.io/)**
-
-Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jingping Wang, Jingbo Wang†, Dahua Lin†, Jiangmiao Pang†.
-
-[**[Project website]**](https://gallantloco.github.io/) 
-[**[Paper]**](https://arxiv.org/pdf/2511.14625)
-[**[Code]**](https://github.com/InternRobotics/Gallant)
-
-We introduce Gallant, the first system to run a single policy that handles full-space constraints — including ground-level barriers, lateral clutter, and overhead obstacles on a humanoid robot.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/Gallant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
