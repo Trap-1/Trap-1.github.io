@@ -29,10 +29,27 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/TAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://roboticsconference.org/program/papers/70/)**
+
+**<u>Feiyu Jia*</u>**, Xiaojie Niu\*, Sizhe Yang\*, Qingwei Ben, Tao Huang, Feng Zhao†, Jingbo Wang†, Jiangmiao Pang†
+
+[**[Project website]**](https://trap-1.github.io/TAG.github.io/) 
+[**[Paper]**](https://arxiv.org/pdf/2603.28542)
+[**[Code]**](https://trap-1.github.io/TAG.github.io/)
+
+We introduce TAG, a low-cost glove system integrating precise motion capture with high-resolution tactile feedback.
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/homie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://roboticsconference.org/program/papers/70/)**
+**[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://trap-1.github.io/TAG.github.io/)**
 
 Qingwei Ben\*, **<u>Feiyu Jia*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
 
@@ -41,11 +58,58 @@ Qingwei Ben\*, **<u>Feiyu Jia*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmi
 [**[Code]**](https://github.com/OpenRobotLab/OpenHomie/)
 
 HOMIE is a semi-autonomous teleoperation system that combines a reinforcement learning policy for body control mapped to a pedal, an isomorphic exoskeleton arm for arm control, and motion-sensing gloves for hand control, forming a unified cockpit to freely operate humanoids and establish a data flywheel.
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Gallant: Voxel grid-based humanoid locomotion and local-navigation across 3d constrained terrains](https://gallantloco.github.io/)**
+
+Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jingping Wang, Jingbo Wang†, Dahua Lin†, Jiangmiao Pang†.
+
+[**[Project website]**](https://gallantloco.github.io/) 
+[**[Paper]**](https://arxiv.org/pdf/2511.14625)
+[**[Code]**](https://github.com/InternRobotics/Gallant)
+
+We introduce Gallant, the first system to run a single policy that handles full-space constraints — including ground-level barriers, lateral clutter, and overhead obstacles on a humanoid robot.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Gallant: Voxel grid-based humanoid locomotion and local-navigation across 3d constrained terrains](https://gallantloco.github.io/)**
+
+Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jingping Wang, Jingbo Wang†, Dahua Lin†, Jiangmiao Pang†.
+
+[**[Project website]**](https://gallantloco.github.io/) 
+[**[Paper]**](https://arxiv.org/pdf/2511.14625)
+[**[Code]**](https://github.com/InternRobotics/Gallant)
+
+We introduce Gallant, the first system to run a single policy that handles full-space constraints — including ground-level barriers, lateral clutter, and overhead obstacles on a humanoid robot.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation](https://mujc2021.github.io/opfa/)**
+
+Juncheng Mu\*, Sizhe Yang\*, Hojin Bae, **<u>Feiyu Jia</u>**, Qingwei Ben, Boyi Li†, Huazhe Xu†, Jiangmiao Pang†.
+
+[**[Project website]**](https://mujc2021.github.io/opfa/) 
+[**[Paper]**](https://arxiv.org/pdf/2603.14522)
+[**[Code]**](https://mujc2021.github.io/opfa/)
+
+We introduce One-Policy-Fits-All (OPFA), a general framework for cross-embodiment manipulation. OPFA leverages the geometric structures of diverse end-effectors to construct a unified latent action representation, and employs a unified latent retargeting decoder to recover embodiment-specific actions.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/AdaMimic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[AdaMimic: Towards Adaptable Humanoid Control via Adaptive Motion Tracking](https://taohuang13.github.io/adamimic.github.io/)**
@@ -57,9 +121,9 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 [**[Code]**](https://github.com/InternRobotics/AdaMimic)
 
 We introduce AdaMimic, a novel motion tracking algorithm that enables adaptable humanoid control from a single reference motion. 
+</div>
+</div>
 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PhysHSI.png' alt="sym" width="100%"></div></div>
@@ -74,7 +138,6 @@ Huayi Wang\*, Wentao Zhang\*, Runyi Yu\*,  Tao Huang,  Junli Ren, **<u>Feiyu Jia
 [**[Code]**](https://github.com/InternRobotics/PhysHSI)
 
 We present a physical-world humanoid-scene interaction system, PhysHSI, that enables humanoids to autonomously perform diverse interaction tasks while maintaining natural and lifelike behaviors. PhysHSI comprises a simulation training pipeline and a real-world deployment system. 
-
 </div>
 </div>
 
