@@ -87,6 +87,14 @@
 
 }
 
+.paper-box.paper-box--accent {
+    background-color: rgba(0, 54, 159, 0.06);
+    border-left: 4px solid #00369f;
+    padding-left: 1.25rem;
+    margin-left: -0.25rem;
+    border-radius: 6px;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
