@@ -19,10 +19,10 @@ redirect_from:
 
 Hi! I'm  Feiyu Jia (贾飞宇), first-year Pd.D student @ [Shanghai AI Lab](https://www.shlab.org.cn/) and [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Dahua Lin](http://dahua.site/) and [Jiangmiao Pang](https://oceanpang.github.io/). I received my bachelor's degree from the [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I am now working with [Jingbo wang](https://wangjingbo1219.github.io/) and [Jiangmiao Pang](https://oceanpang.github.io/) at Shanghai AI Lab. 
 
-My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. In my free time, I enjoy traveling and painting. Meanwhile, I am an avid fan of LOL and Valorant.
-
+My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. In my free time, I enjoy traveling and painting. Meanwhile, I am an avid fan of LOL and Valorant. My CV is available [here](/images/FeiyuJia_CV.pdf).
 
 # 🔥 News
+- *2026.4*: &nbsp; Our paper [TAG](https://trap-1.github.io/TAG.github.io/) was released.
 - *2025.10*: &nbsp; Two papers ([AdaMimic](https://github.com/InternRobotics/AdaMimic) and [PhysHSI](https://github.com/InternRobotics/PhysHSI)) on learning humanoid control were released.
 - *2025.04*: &nbsp;🎉🎉 One paper [HOMIE](https://homietele.github.io/) is accepted by RSS 2025!
 
@@ -38,7 +38,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 
 [**[Project website]**](https://trap-1.github.io/TAG.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2603.28542)
-[**[Code]**](https://trap-1.github.io/TAG.github.io/)
+[**[Code]**](https://github.com/InternRobotics/TAG)
 
 We introduce TAG, a low-cost glove system integrating precise motion capture with high-resolution tactile feedback.
 </div>
