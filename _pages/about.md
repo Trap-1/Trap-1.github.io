@@ -32,7 +32,7 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 <div class='paper-box paper-box--accent'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/TAG_NEW.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://roboticsconference.org/program/papers/70/)**
+**[Feel Robot Feels: Tactile Feedback Array Glove for Dexterous Manipulation](https://arxiv.org/pdf/2603.28542)**
 
 **<u>Feiyu Jia*</u>**, Xiaojie Niu\*, Sizhe Yang\*, Qingwei Ben, Tao Huang, Feng Zhao†, Jingbo Wang†, Jiangmiao Pang†
 
@@ -40,13 +40,12 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 [**[Paper]**](https://arxiv.org/pdf/2603.28542)
 [**[Code]**](https://github.com/InternRobotics/TAG)
 
-We introduce TAG, a low-cost glove system integrating precise motion capture with high-resolution tactile feedback.
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/homie.png' alt="sym" width="100%"></div></div>
+<div class='paper-box paper-box--accent'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/homie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://trap-1.github.io/TAG.github.io/)**
@@ -62,12 +61,30 @@ HOMIE is a semi-autonomous teleoperation system that combines a reinforcement le
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/Gallant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/pdf/2605.22272)**
+
+Jiahe Chen\*, ZiRui Wang\*, **<u>Feiyu Jia</u>**, Xiao Chen, Xiaojie Niu, Weishuai Zeng, Tianfan Xue, Xiaowei Zhou, Jiangmiao Pang†, Jingbo Wang†
+
+[**[Project website]**](https://arxiv.org/pdf/2605.22272) 
+[**[Paper]**](https://arxiv.org/pdf/2605.22272)
+[**[Code]**](https://arxiv.org/pdf/2605.22272)
+
+We propose Imagine2Real, a zero-shot HOI framework for flexible, geometry-free interaction. Experiments demonstrate high
+success rates and robust motion tracking in representative whole-body HOI tasks (e.g., carrying and pushing objects), culminating in successful zero-shot physical deployment on a real humanoid robot.
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/Gallant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Gallant: Voxel grid-based humanoid locomotion and local-navigation across 3d constrained terrains](https://gallantloco.github.io/)**
 
-Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jingping Wang, Jingbo Wang†, Dahua Lin†, Jiangmiao Pang†.
+Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jingping Wang, Jingbo Wang†, Dahua Lin†, Jiangmiao Pang†
 
 [**[Project website]**](https://gallantloco.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2511.14625)
@@ -83,7 +100,7 @@ We introduce Gallant, the first system to run a single policy that handles full-
 
 **[One-Policy-Fits-All: Geometry-Aware Action Latents for Cross-Embodiment Manipulation](https://mujc2021.github.io/opfa/)**
 
-Juncheng Mu\*, Sizhe Yang\*, Hojin Bae, **<u>Feiyu Jia</u>**, Qingwei Ben, Boyi Li†, Huazhe Xu†, Jiangmiao Pang†.
+Juncheng Mu\*, Sizhe Yang\*, Hojin Bae, **<u>Feiyu Jia</u>**, Qingwei Ben, Boyi Li†, Huazhe Xu†, Jiangmiao Pang†
 
 [**[Project website]**](https://mujc2021.github.io/opfa/) 
 [**[Paper]**](https://arxiv.org/pdf/2603.14522)
