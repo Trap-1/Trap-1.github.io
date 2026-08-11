@@ -56,12 +56,11 @@ Qingwei Ben\*, **<u>Feiyu Jia*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmi
 [**[Paper]**](https://arxiv.org/pdf/2502.13013)
 [**[Code]**](https://github.com/OpenRobotLab/OpenHomie/)
 
-HOMIE is a semi-autonomous teleoperation system that combines a reinforcement learning policy for body control mapped to a pedal, an isomorphic exoskeleton arm for arm control, and motion-sensing gloves for hand control, forming a unified cockpit to freely operate humanoids and establish a data flywheel.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/Gallant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2026</div><img src='images/Image2real.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Imagine2Real: Towards Zero-shot Humanoid-Object Interaction via Video Generative Priors](https://arxiv.org/pdf/2605.22272)**
@@ -72,8 +71,6 @@ Jiahe Chen\*, ZiRui Wang\*, **<u>Feiyu Jia</u>**, Xiao Chen, Xiaojie Niu, Weishu
 [**[Paper]**](https://arxiv.org/pdf/2605.22272)
 [**[Code]**](https://arxiv.org/pdf/2605.22272)
 
-We propose Imagine2Real, a zero-shot HOI framework for flexible, geometry-free interaction. Experiments demonstrate high
-success rates and robust motion tracking in representative whole-body HOI tasks (e.g., carrying and pushing objects), culminating in successful zero-shot physical deployment on a real humanoid robot.
 
 </div>
 </div>
@@ -90,7 +87,6 @@ Qingwei Ben\*, Botian Xu\*, Kailin Li\*, **<u>Feiyu Jia</u>**, Wentao Zhang, Jin
 [**[Paper]**](https://arxiv.org/pdf/2511.14625)
 [**[Code]**](https://github.com/InternRobotics/Gallant)
 
-We introduce Gallant, the first system to run a single policy that handles full-space constraints — including ground-level barriers, lateral clutter, and overhead obstacles on a humanoid robot.
 </div>
 </div>
 
@@ -106,7 +102,35 @@ Juncheng Mu\*, Sizhe Yang\*, Hojin Bae, **<u>Feiyu Jia</u>**, Qingwei Ben, Boyi 
 [**[Paper]**](https://arxiv.org/pdf/2603.14522)
 [**[Code]**](https://mujc2021.github.io/opfa/)
 
-We introduce One-Policy-Fits-All (OPFA), a general framework for cross-embodiment manipulation. OPFA leverages the geometric structures of diverse end-effectors to construct a unified latent action representation, and employs a unified latent retargeting decoder to recover embodiment-specific actions.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/teleopbeacn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation](https://arxiv.org/pdf/2505.12748)**
+
+Hangyu Li\*, Qin Zhao\*, Haoran Xu, Xinyu Jiang, Qingwei Ben, **<u>Feiyu Jia</u>**, Haoyu Zhao, Liang Xu, Jia Zeng, Hanqing Wang, Bo Dai, Junting Dong†, Jiangmiao Pang†
+
+[**[Project website]**](https://gorgeous2002.github.io/TeleOpBench/) 
+[**[Paper]**](https://arxiv.org/pdf/2505.12748)
+[**[Code]**](https://github.com/cyjdlhy/TeleOpBench)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PhysHSI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/)**
+
+Huayi Wang\*, Wentao Zhang\*, Runyi Yu\*,  Tao Huang,  Junli Ren, **<u>Feiyu Jia</u>**,  Xiaojie Niu,  Xiao Chen, Jiahe Chen, Qifeng Chen†,  Jingbo Wang†, Jiangmiao Pang†
+
+[**[Project website]**](https://why618188.github.io/physhsi/) 
+[**[Paper]**](https://arxiv.org/abs/2510.11072)
+[**[Code]**](https://github.com/InternRobotics/PhysHSI)
+
 </div>
 </div>
 
@@ -122,35 +146,23 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 [**[Paper]**](https://taohuang13.github.io/adamimic.github.io/assets/paper.pdf)
 [**[Code]**](https://github.com/InternRobotics/AdaMimic)
 
-We introduce AdaMimic, a novel motion tracking algorithm that enables adaptable humanoid control from a single reference motion. 
 </div>
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2025</div><img src='images/PhysHSI.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[PhysHSI: Towards a Real-World Generalizable and Natural Humanoid-Scene Interaction System](https://why618188.github.io/physhsi/)**
-
-Huayi Wang\*, Wentao Zhang\*, Runyi Yu\*,  Tao Huang,  Junli Ren, **<u>Feiyu Jia</u>**,  Xiaojie Niu,  Xiao Chen, Jiahe Chen, Qifeng Chen†,  Jingbo Wang†, Jiangmiao Pang†
-
-[**[Project website]**](https://why618188.github.io/physhsi/) 
-[**[Paper]**](https://arxiv.org/abs/2510.11072)
-[**[Code]**](https://github.com/InternRobotics/PhysHSI)
-
-We present a physical-world humanoid-scene interaction system, PhysHSI, that enables humanoids to autonomously perform diverse interaction tasks while maintaining natural and lifelike behaviors. PhysHSI comprises a simulation training pipeline and a real-world deployment system. 
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2024.09* **National Scholarship**(Highest Honor for undergraduates in China)
 - *2023.09* **National Scholarship**
 - *2023.09* **RoboCup China, Dance Robot Champion**
 
+
+
 # 📖 Educations
 - *2025.09 - NOW*, University of Science and Technology of China
 - *2021.06 - 2025.06*, Northwestern Polytechnical University
+
+
 
 # 💻 Experiences
 - *2024.08 - now*, [InternRobotics](https://github.com/InternRobotics), Shanghai AI Laboratory.

@@ -95,6 +95,10 @@
     border-radius: 6px;
 }
 
+.paper-box.paper-box--accent + .paper-box.paper-box--accent {
+    margin-top: 0.75rem;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
