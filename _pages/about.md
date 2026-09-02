@@ -174,7 +174,7 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 
 <div class="profile-entry">
   <div class="profile-entry__logo">
-    <img src="/images/npu-logo.png" alt="Northwestern Polytechnical University logo">
+    <img src="/images/npu-logo.gif" alt="Northwestern Polytechnical University logo">
   </div>
   <div class="profile-entry__details">
     <h3><a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a></h3>
