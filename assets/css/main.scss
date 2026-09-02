@@ -103,38 +103,45 @@
     align-items: center;
     padding: 1.25rem 0 2rem;
     border-bottom: 1px solid #efefef;
+}
 
-    .profile-entry__logo {
-        display: flex;
-        align-items: center;
-        justify-content: center;
+.profile-entry__logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
-        img {
-            width: 100%;
-            max-width: 220px;
-            max-height: 150px;
-            object-fit: contain;
-        }
-    }
+.profile-entry__logo img {
+    width: 100%;
+    max-width: 220px;
+    max-height: 150px;
+    object-fit: contain;
+}
 
-    .profile-entry__details {
-        h3 {
-            margin: 0 0 0.75rem;
-        }
+.profile-entry__details h3 {
+    margin: 0 0 0.75rem;
+}
 
-        p {
-            margin: 0.35rem 0;
-        }
-    }
+.profile-entry__details p {
+    margin: 0.35rem 0;
+}
 
-    @media (max-width: 600px) {
+.oral-presentation {
+    margin: 0.55rem 0;
+    color: #d93025;
+    font-weight: 700;
+    font-style: italic;
+}
+
+@media (max-width: 600px) {
+    .profile-entry {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
 
-        .profile-entry__logo img {
-            max-width: 180px;
-            max-height: 120px;
-        }
+    .profile-entry__logo img {
+        max-width: 180px;
+        max-height: 120px;
     }
 }
 

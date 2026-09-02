@@ -48,9 +48,11 @@ My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**
 <div class='paper-box paper-box--accent'><div class='paper-box-image'><div><div class="badge">RSS 2025</div><img src='images/homie.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://trap-1.github.io/TAG.github.io/)**
+**[HOMIE: Humanoid Loco-Manipulation with Isomorphic Exoskeleton Cockpit](https://homietele.github.io/)**
 
 Qingwei Ben\*, **<u>Feiyu Jia*</u>**, Jia Zeng, Junting Dong, Dahua Lin, Jiangmiao Pang†
+
+<p class="oral-presentation">(Oral Presentation)</p>
 
 [**[Project website]**](https://homietele.github.io/) 
 [**[Paper]**](https://arxiv.org/pdf/2502.13013)
