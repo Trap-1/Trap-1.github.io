@@ -96,6 +96,48 @@
     border-radius: 6px;
 }
 
+.profile-entry {
+    display: grid;
+    grid-template-columns: minmax(150px, 28%) 1fr;
+    gap: 2rem;
+    align-items: center;
+    padding: 1.25rem 0 2rem;
+    border-bottom: 1px solid #efefef;
+
+    .profile-entry__logo {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            width: 100%;
+            max-width: 220px;
+            max-height: 150px;
+            object-fit: contain;
+        }
+    }
+
+    .profile-entry__details {
+        h3 {
+            margin: 0 0 0.75rem;
+        }
+
+        p {
+            margin: 0.35rem 0;
+        }
+    }
+
+    @media (max-width: 600px) {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+
+        .profile-entry__logo img {
+            max-width: 180px;
+            max-height: 120px;
+        }
+    }
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

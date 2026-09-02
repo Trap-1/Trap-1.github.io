@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm  Feiyu Jia (贾飞宇), first-year Pd.D student @ [Shanghai AI Lab](https://www.shlab.org.cn/) and [School of Information Science and Technology](https://sist.ustc.edu.cn/), [University of Science and Technology of China](https://www.ustc.edu.cn/), supervised by [Dahua Lin](http://dahua.site/) and [Jiangmiao Pang](https://oceanpang.github.io/). I received my bachelor's degree from the [School of Automation](https://zdhxy.nwpu.edu.cn/), [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). I am now working with [Jingbo wang](https://wangjingbo1219.github.io/) and [Jiangmiao Pang](https://oceanpang.github.io/) at Shanghai AI Lab. 
+Hi! I'm **Feiyu Jia (贾飞宇)**, an incoming Ph.D. student (Fall 2026) at [MMLab@HKU](https://mmlab.hk/), [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Ping Luo](https://luoping.me/). I received my bachelor's degree from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). Previously, I worked at [Shanghai AI Lab](https://www.shlab.org.cn/) with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), and [Dr. Jingbo Wang](https://wangjingbo1219.github.io/).
 
-My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. In my free time, I enjoy traveling and painting. Meanwhile, I am an avid fan of LOL and Valorant. My CV is available [here](/images/FeiyuJia_CV.pdf).
+My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. I am also an avid fan of LOL. My CV is available [here](/images/FeiyuJia_CV.pdf), or feel free to reach me via WeChat: **jy54796666**.
 
 # 🔥 News
 - *2026.4*: &nbsp; Our paper [TAG](https://trap-1.github.io/TAG.github.io/) was released.
@@ -152,17 +152,45 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 
 
 # 🎖 Honors and Awards
-- *2024.09* **National Scholarship**(Highest Honor for undergraduates in China)
-- *2023.09* **National Scholarship**
+- *2022 - 2024* **National Scholarship**(Highest Honor for undergraduates in China)
 - *2023.09* **RoboCup China, Dance Robot Champion**
 
 
 
-# 📖 Educations
-- *2025.09 - NOW*, University of Science and Technology of China
-- *2021.06 - 2025.06*, Northwestern Polytechnical University
+# 📖 Education
 
+<div class="profile-entry">
+  <div class="profile-entry__logo">
+    <img src="/images/hku-logo.png" alt="The University of Hong Kong logo">
+  </div>
+  <div class="profile-entry__details">
+    <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3>
+    <p><strong>2026.09 - Present</strong> · <em>Ph.D. Student</em></p>
+    <p><a href="https://mmlab.hk/">MMLab</a>, School of Computing and Data Science (CDS)</p>
+    <p>Advisor: <a href="https://luoping.me/">Prof. Ping Luo</a></p>
+  </div>
+</div>
 
+<div class="profile-entry">
+  <div class="profile-entry__logo">
+    <img src="/images/npu-logo.png" alt="Northwestern Polytechnical University logo">
+  </div>
+  <div class="profile-entry__details">
+    <h3><a href="https://www.nwpu.edu.cn/">Northwestern Polytechnical University</a></h3>
+    <p><strong>2021.06 - 2025.06</strong> · <em>Bachelor's Degree</em></p>
+    <p>School of Automation</p>
+  </div>
+</div>
 
-# 💻 Experiences
-- *2024.08 - now*, [InternRobotics](https://github.com/InternRobotics), Shanghai AI Laboratory.
+# 💻 Experience
+
+<div class="profile-entry">
+  <div class="profile-entry__logo">
+    <img src="/images/internrobotics-logo.png" alt="InternRobotics logo">
+  </div>
+  <div class="profile-entry__details">
+    <h3><a href="https://github.com/InternRobotics">InternRobotics</a> @ <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></h3>
+    <p><strong>2024.08 - 2026.03</strong></p>
+    <p>Advisors: <a href="https://oceanpang.github.io/">Dr. Jiangmiao Pang</a> and <a href="https://wangjingbo1219.github.io/">Dr. Jingbo Wang</a></p>
+  </div>
+</div>
