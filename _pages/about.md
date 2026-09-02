@@ -17,9 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm **Feiyu Jia (贾飞宇)**, an incoming Ph.D. student (Fall 2026) at [MMLab@HKU](https://mmlab.hk/), [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Ping Luo](https://luoping.me/). I received my bachelor's degree from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). Previously, I worked at [Shanghai AI Lab](https://www.shlab.org.cn/) with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), and [Dr. Jingbo Wang](https://wangjingbo1219.github.io/).
+Hi! I'm **Feiyu Jia (贾飞宇)**, an incoming Ph.D. student (Fall 2026) at [MMLab@HKU](https://mmlab.hk/), [The University of Hong Kong](https://www.hku.hk/), advised by [Prof. Ping Luo](https://luoping.me/). I received my bachelor's degree from [Northwestern Polytechnical University](https://www.nwpu.edu.cn/). Previously, I worked at [Shanghai AI Lab](https://www.shlab.org.cn/) with [Dr. Jiangmiao Pang](https://oceanpang.github.io/), and [Dr. Jingbo Wang](https://wangjingbo1219.github.io/). My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. My CV is available [here](/images/FeiyuJia_CV.pdf). Feel free to drop me an [email](mailto:feiyujia635@gmail.com) or reach me on WeChat: jy54796666.
 
-My research interest includes **Teleoperation, Humanoid robots and Embodied Ai**. I am also an avid fan of LOL. My CV is available [here](/images/FeiyuJia_CV.pdf), or feel free to reach me via WeChat: **jy54796666**.
 
 # 🔥 News
 - *2026.4*: &nbsp; Our paper [TAG](https://trap-1.github.io/TAG.github.io/) was released.
@@ -163,7 +162,7 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 
 <div class="profile-entry">
   <div class="profile-entry__logo">
-    <img src="/images/hku-logo.png" alt="The University of Hong Kong logo">
+    <img src="/images/hku-logo.jpg" alt="The University of Hong Kong logo">
   </div>
   <div class="profile-entry__details">
     <h3><a href="https://www.hku.hk/">The University of Hong Kong</a></h3>
@@ -188,7 +187,7 @@ Tao Huang, Huayi Wang, Junli Ren, Kangning Yin, Zirui Wang, Xiao Chen, **<u>Feiy
 
 <div class="profile-entry">
   <div class="profile-entry__logo">
-    <img src="/images/internrobotics-logo.png" alt="InternRobotics logo">
+    <img src="/images/ailab_logo.png" alt="InternRobotics logo">
   </div>
   <div class="profile-entry__details">
     <h3><a href="https://github.com/InternRobotics">InternRobotics</a> @ <a href="https://www.shlab.org.cn/">Shanghai AI Laboratory</a></h3>
